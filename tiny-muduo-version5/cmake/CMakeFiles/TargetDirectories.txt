@@ -1,0 +1,3 @@
+/home/gys/cpp/tiny-muduo-version4/cmake/CMakeFiles/rebuild_cache.dir
+/home/gys/cpp/tiny-muduo-version4/cmake/CMakeFiles/edit_cache.dir
+/home/gys/cpp/tiny-muduo-version4/cmake/CMakeFiles/server.dir
