@@ -12,3 +12,6 @@ version4: add timer
 version5: reactor + thread(or a try of combining threadpool with this model)
 
 version6: reactor + threadpool
+
+similarily, it will be helpful when I code a httpserver, just add some fixed http message format......but I think it is a time-wasting thing.
+I prefer to study new knowledge like serialization and rpc .....
