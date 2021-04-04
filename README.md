@@ -1,11 +1,11 @@
 # muduo_study
 the steps when study muduo
 
-version1:
+version1: main function wait epollfd and handle callback
 
-version2:
+version2: add eventloop and wrap epoll 
 
-version3:
+version3: add IMuduoUser to provide a interface to user
 
 version4: add timer
 
